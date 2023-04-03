@@ -1,4 +1,4 @@
-### Hi there 👋
+![001](https://user-images.githubusercontent.com/83686474/229401912-f661d837-52c7-46ef-9c44-22656a8cc28c.png)
 
 <!--
 **ryu-hyesu/ryu-hyesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
