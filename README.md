@@ -8,12 +8,6 @@
  ┗━━━━━━┛</br>
 </center>
 
-┌───────────────┐
-         message
-└───────────────┘
-　　ᕱ ᕱ ||
-　 ( ･ω･ ||
-　 /　つΦ
 
 
 <img src="https://img.shields.io/badge/unity-black?style={plastic}&logo=Unity&logoColor=FFFFFF"/>
