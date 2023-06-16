@@ -8,7 +8,3 @@
   ┗━━━━━━━━┛</br>
 </div>
 
-
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
