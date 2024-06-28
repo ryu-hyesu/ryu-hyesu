@@ -3,9 +3,9 @@
 <h2>Welcome to my GitHub!</h2>
 I'm Hyesu, a developer with a focus on Android. Here you'll find my projects and contributions.
 <br>
-<div align=center><h1>STACKS</h1></div>
+<div align=center><h2>STACKS</h2></div>
 
-<div align=center> 
+<div> 
   <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"> 
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"> 
@@ -23,10 +23,7 @@ I'm Hyesu, a developer with a focus on Android. Here you'll find my projects and
   <br>
 </div>
 
-<div align=center><h1>Programmers</h1></div>
+<div><h2>Programmers</h2></div>
 
-<div align=center>
-   
 [![](https://github.com/ryu-hyesu/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
 
-</div>
