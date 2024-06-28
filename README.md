@@ -21,7 +21,10 @@ I'm Hyesu, a developer with a focus on Android. Here you'll find my projects and
   <br>
 </div>
 
+## How to reach me
+- [Email](mailto:aimee39941@gmail.com)
+- [blog]([https://treeunderthehuman.tistory.com/])
+
 ## Programmers
 
 [![](https://github.com/ryu-hyesu/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
-
