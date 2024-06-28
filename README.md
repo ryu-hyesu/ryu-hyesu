@@ -13,19 +13,21 @@
 <div align=center><h1>STACKS</h1></div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/android-#34A853?style=for-the-badge&logo=android&logoColor=white"> 
-  <img src="https://img.shields.io/badge/kotlin-#7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-#DD2C00?style=for-the-badge&logo=firebase&logoColor=white"> 
+  <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"> 
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"> 
   <br>
 
    <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white"> 
   <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/json-#000000?style=for-the-badge&logo=json&logoColor=white"> 
+  <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"> 
   <br>
 </div>
 
 <div align=center><h1>Programmers</h1></div>
 
 <div align=center>
+   
 [![](https://github.com/ryu-hyesu/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+
 </div>
