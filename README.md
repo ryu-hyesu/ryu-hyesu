@@ -2,9 +2,7 @@
 
 <h2>Welcome to my GitHub!</h2>
 I'm Hyesu, a developer with a focus on Android. Here you'll find my projects and contributions.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryu-hyesu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<br>
 <div align=center><h1>STACKS</h1></div>
 
 <div align=center> 
