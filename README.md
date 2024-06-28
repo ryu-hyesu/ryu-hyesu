@@ -9,7 +9,7 @@ I'm Hyesu, a developer with a focus on Android. Here you'll find my projects and
   <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"> 
   <br>
 
-   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white"> 
+   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"> 
   <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> 
   <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"> 
