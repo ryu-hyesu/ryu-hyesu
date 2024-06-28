@@ -22,8 +22,8 @@ I'm Hyesu, a developer with a focus on Android. Here you'll find my projects and
 </div>
 
 ## How to reach me
-- [Email](mailto:aimee39941@gmail.com)
-- [blog]([https://treeunderthehuman.tistory.com/])
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aimee39941@gmail.com)](mailto:aimee39941@gmail.com)
+[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://treeunderthehuman.tistory.com](https://treeunderthehuman.tistory.com)
 
 ## Programmers
 
