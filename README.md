@@ -1,5 +1,3 @@
-![001](https://user-images.githubusercontent.com/83686474/229401912-f661d837-52c7-46ef-9c44-22656a8cc28c.png)
-
 ## Welcome to my GitHub!
 I'm Hyesu, a developer with a focus on Android. Here you'll find my projects and contributions.
 
