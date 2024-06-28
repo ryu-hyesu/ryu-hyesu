@@ -1,9 +1,9 @@
 ![001](https://user-images.githubusercontent.com/83686474/229401912-f661d837-52c7-46ef-9c44-22656a8cc28c.png)
 
-<h2>Welcome to my GitHub!</h2>
+## Welcome to my GitHub!
 I'm Hyesu, a developer with a focus on Android. Here you'll find my projects and contributions.
-<br>
-<div align=center><h2>STACKS</h2></div>
+
+## STACKS
 
 <div> 
   <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"> 
@@ -23,7 +23,7 @@ I'm Hyesu, a developer with a focus on Android. Here you'll find my projects and
   <br>
 </div>
 
-<div><h2>Programmers</h2></div>
+## Programmers
 
 [![](https://github.com/ryu-hyesu/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
 
