@@ -24,5 +24,5 @@ I'm Hyesu, a developer with a focus on Android. Here you'll find my projects and
 </div>
 
 ## Programmers
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aimee3994)](https://solved.ac/aimee3994/)
 [![](https://github.com/ryu-hyesu/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
