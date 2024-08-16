@@ -1,7 +1,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aimee39941@gmail.com)](mailto:aimee39941@gmail.com)
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://treeunderthehuman.tistory.com)](https://treeunderthehuman.tistory.com)
 ## Welcome to my GitHub!
-I'm Hyesu, a developer with a focus on Android. Here you'll find my projects and contributions.
+I'm Hyesu, Here you'll find my projects and contributions.
 
 ## STACKS
 
